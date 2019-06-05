@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>keypair.snk</AssemblyOriginatorKeyFile>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Adolfo Marinucci</Authors>
+    <Description>.NET implementation of SNMP protocol. This is a fork of the great original library SnmpShartNet (http://www.snmpsharpnet.com)</Description>
+    <PackageProjectUrl>https://github.com/adospace/SnmpSharpNetCore</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/adospace/SnmpSharpNetCore/blob/master/LICENSE</PackageLicenseUrl>
   </PropertyGroup>
 
   <ItemGroup>
