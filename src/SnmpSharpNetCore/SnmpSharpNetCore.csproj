@@ -9,6 +9,7 @@
     <Description>.NET implementation of SNMP protocol. This is a fork of the great original library SnmpShartNet (http://www.snmpsharpnet.com)</Description>
     <PackageProjectUrl>https://github.com/adospace/SnmpSharpNetCore</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/adospace/SnmpSharpNetCore/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageId>SnmpSharpNet-core</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
